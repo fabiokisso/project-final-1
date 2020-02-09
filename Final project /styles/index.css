@@ -1,0 +1,79 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  font: 400;
+  font-size: 16px;
+  color: #777;
+}
+
+.index{
+  color: white;
+  text-decoration: none;
+}
+
+.about-me{
+  color: white;
+  text-decoration: none;
+}
+
+.education-experience{
+  color: white;
+  text-decoration: none;
+}
+
+.my-skills{
+  color: white;
+  text-decoration: none;
+}
+
+.contact-me{
+  color: white;
+  text-decoration: none;
+}
+
+.header {
+  height: 100vh;
+  background-image: linear-gradient(to right bottom, #000000, #b5c0bcc2),
+    url(../images/Wallpaper_DigitalMarketing.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.logo-container {
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  width: 100%;
+  text-align: center;
+  letter-spacing: 9px;
+}
+
+.heading {
+  color: white;
+
+  position: absolute;
+  top: 50%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+}
+
+.heading-main {
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: 35px;
+}
+
+.heading-subsection {
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 7.5px;
+}

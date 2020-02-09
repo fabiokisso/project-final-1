@@ -1,0 +1,111 @@
+
+body {
+    font-family: "Lato", sans-serif;
+    font: 400;
+    font-size: 16px;
+    color: white;
+    background-color: black;
+  
+  }
+  
+  .header{
+height: 150px;
+  }
+
+  .index{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .about-me{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .education-experience{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .my-skills{
+    color: white;
+    text-decoration: none;
+  }
+  
+  .contact-me{
+    color: white;
+    text-decoration: none;
+  }
+
+  .logo-container {
+    color: white;
+    font-size: 40px;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    width: 100%;
+    text-align: center;
+    letter-spacing: 9px;
+  }
+
+  .e-commerce {
+
+    color: white;
+font-size: 20px;
+
+width: 33%;
+float: left;
+letter-spacing: 3px;
+text-align: center;
+  }
+
+
+.online-marketing{
+
+ color: white;
+font-size: 20px;
+
+width: 33%;
+float: left;
+letter-spacing: 3px;
+text-align: center;
+}
+
+.web-development{
+
+    color: white;
+    font-size: 20px;
+   
+    width: 33%;
+    float: left;
+    letter-spacing: 3px;
+    text-align: center;
+
+}
+
+
+  .my-skills-section-heading{
+    text-align: center;
+    font-size: medium;
+     }
+
+
+     .images-e-commerce{
+width: 300px;
+
+
+     }
+
+     .images-reach{
+width: 320px;
+
+
+     }
+
+     .images-web-development{
+
+width: 300px;
+
+
+
+     }
